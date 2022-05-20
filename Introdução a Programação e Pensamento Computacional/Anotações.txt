@@ -1,0 +1,16 @@
+Decomposição: decompõe um problema em varias camadas de tarefas mais fáceis para se resolver e chegar na resolução final do problema
+
+Padrões: modelos com padrões com mesmos parâmetros 
+Vantagens? Generalizar com objetivo de obter resoluções para problemas diferentes
+
+Algoritmo: sequência de instruções passo a passo para conseguir resolver uma tarefa e chegar no objetivo final
+
+O que é Lógica?
+Organização e planejento de instruções  assertivas em um algoritmo a fim de viabilizar a implantação de um programa
+
+Lógica de programação:
+- tecnica linear ( execução sequenciada)
+- tecnica estrutura ( execução com condições)
+Vantagens: varias opções para chegar no resultado
+- tecnica modular (conjunto de módulos com suas regras)
+Vantagens: simplificação, decompor o problema, verificação do módulo
